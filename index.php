@@ -1,7 +1,7 @@
-<?php $company = "WALDON AUTOMOTIVE SERVICE";
-$phone = "(812) 537-1865";
-	$address1 = "348 W EADS PKWY";
-	$address2 = "LAWRENCEBURG, IN 47025";
+<?php $company = "Eagle Auto Sales";
+$phone = "(903) 683-5700";
+	$address1 = "441 N Henderson St";
+	$address2 = "Rusk, TX, 75785";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
